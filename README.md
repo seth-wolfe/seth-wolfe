@@ -1,4 +1,4 @@
-<h1>Hi, I'm Seth! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Digital Forensics Investigator</a></h1>
+<h1>Hi, I'm Seth! <br/><a href="https://github.com/seth-wolfe"></a> <a href="linkedin.com/in/seth-wolfe-7935692b2?trk=people-guest_people_search-card">Cybersecurity Professional, Digital Forensics Investigator</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
